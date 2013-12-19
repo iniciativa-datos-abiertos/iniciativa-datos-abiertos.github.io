@@ -9,7 +9,7 @@ title: Iniciativa de Datos Abiertos
 El Gobierno de la República tiene como objetivo que todos los datos públicos que genera y
 administra sean liberados en formas que permitan su uso, reuso y redistribución por cualquier persona
 y para cualquier fin permitido por la ley.
-
+rod
 En esta página encontrarás el borrador de la Política Nacional de Datos Abiertos y su Guía
 de Publicación. Están a tu disposición porque tus comentarios son importantes para mejorar,
 transparentar y democratizar el proceso de elaboración de políticas públicas en México.
