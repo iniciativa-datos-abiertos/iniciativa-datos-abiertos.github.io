@@ -17,7 +17,7 @@ transparentar y democratizar el proceso de elaboración de políticas públicas 
 La Política Nacional de Datos Abiertos estará abierta a comentarios hasta el 15 de febrero 
 de 2014, y su Guía de Publicación de Datos Abiertos estará abierta a comentarios de manera 
 permanente.
-
+hola Rod
 Tú, el usuario, y el valor que puedas crear mediante estos Datos Abiertos son lo más
 importante para esta Política. Te invitamos a explorar, reflexionar y comentar estos 
 documentos, para perfeccionarlos y tener una Política que lleve a una nueva relación
