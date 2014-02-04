@@ -3,8 +3,8 @@ published: true
 permalink: /estructura/
 layout: navegable
 title: Política Nacional de Datos Abiertos
-doc-name: pnda
-sections:
+"doc-name": pnda
+sections: 
   - name: Introducción
     path: documentos/politica/pnda
   - name: Considerando
@@ -45,7 +45,7 @@ Que será responsable de:
 * Dar seguimiento al cumplimiento de las políticas establecidas en esta Política;
 * Coordinar las modificaciones a la Guía de Implementación de esta Política; 
 * Administrar el portal de Datos Abiertos y sus contenidos;
-* Orientar a los dependencias y entidades de la APF de gobierno a mejorar la toma de decisiones de política pública al más alto nivel, mediante la publicación de conjuntos de datos de gran valor para las mismas;
+* Orientar a las dependencias y entidades de la APF de gobierno a mejorar la toma de decisiones de política pública al más alto nivel, mediante la publicación de conjuntos de datos de gran valor para las mismas;
 * Apoyar la coordinación interinstitucional para evitar duplicidad en los trabajos y aprovechar potenciales áreas de oportunidad;
 * Participar, en coordinación con las dependencias y entidades competentes, en el diseño y formulación de capacitación relaciona con Datos Abiertos;
 * Evaluar periódicamente la implementación de la Política a través de  mecanismos y métricas definidas claramente;
@@ -117,4 +117,3 @@ El Consejo Consultivo de Datos Abiertos es parte del Plan de Acción de México 
 El Escuadrón de Datos será un grupo de expertos en tecnología, arquitectura de información y asuntos jurídicos relativos a los Datos Abiertos.
 
 De manera escalonada, el Escuadrón capacitará, guiará y asesorará a las dependencias y entidades de la APF en los pasos iniciales para la implementación de procesos y ejecución de esta Política.
-
